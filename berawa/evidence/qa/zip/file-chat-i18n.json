@@ -1,0 +1,452 @@
+{
+ "url": "file:///tmp/zip-hotel-rua-villar-santiago/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 17 habitaciones: 4 individuales, 9 dobles estándar, 2 dobles con galería y 2 dobles superiores. La doble superior es muy amplia, con b"
+    },
+    {
+     "q": "¿Qué equipamiento tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen baño completo, minibar, teléfono, pantalla de plasma y aire acondicionado-climatizador. El hotel ofrece wifi gratuit"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Los servicios incluyen desayuno bufé, bar/salón, espacio para guardar el equipaje, recepción 24 horas, wifi, registro de entrada y salida ex"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Hay aparcamiento público de pago cerca. Los clientes del hotel tienen un precio especial en el Parking San Clemente, a 220 metros del hotel;"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Está en la Rúa do Vilar 8-10, 15705 Santiago de Compostela, a 15 metros de la Catedral. La rúa do Vilar forma, con la rúa do Franco y la rúa"
+    },
+    {
+     "q": "¿Qué historia tiene el edificio?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Es una antigua casa señorial del siglo XVIII convertida en hotel tras una cuidada restauración, con madera y mármol. Consta de bajo y cuatro"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web invita a reservar en la web oficial para conseguir el «mejor precio garantizado». Para reservar con esta demo, contacta con el hotel "
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Teléfono 981 51 98 58; correo info@hotelruavillar.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su política de privacidad indica como responsable a RUA VILLAR RESTAURACION S.L."
+    },
+    {
+     "q": "¿Hay ascensor?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen baño completo, minibar, teléfono, pantalla de plasma y aire acondicionado-climatizador. El hotel ofrece wifi gratuit"
+    },
+    {
+     "q": "¿Hay servicio de lavandería?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Los servicios incluyen desayuno bufé, bar/salón, espacio para guardar el equipaje, recepción 24 horas, wifi, registro de entrada y salida ex"
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web invita a reservar en la web oficial para conseguir el «mejor precio garantizado». Para reservar con esta demo, contacta con el hotel "
+    },
+    {
+     "q": "¿Tienen suites?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 981 51 98 58 · info@hotelruavillar.com."
+    }
+   ],
+   "chips": [
+    "¿Cuántas habitaciones tiene?",
+    "¿Hay parking?",
+    "¿Dónde está?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "loc_p",
+    "send",
+    "stat1",
+    "room0_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quantes habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 17 habitacions: 4 individuals, 9 dobles estàndard, 2 dobles amb galeria i 2 dobles superiors. La doble superior és molt àmplia, amb balcó"
+    },
+    {
+     "q": "Quin equipament tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen bany complet, minibar, telèfon, pantalla de plasma i aire condicionat-climatitzador. L'hotel ofereix wifi gratuïta, se"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Els serveis inclouen esmorzar bufet, bar/saló, espai per guardar l'equipatge, recepció 24 hores, wifi, registre d'entrada i sortida exprés, "
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Hi ha aparcament públic de pagament a prop. Els clients de l'hotel tenen un preu especial al Parking San Clemente, a 220 metres de l'hotel; "
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "És a la Rúa do Vilar 8-10, 15705 Santiago de Compostela, a 15 metres de la Catedral. La rúa do Vilar forma, amb la rúa do Franco i la rúa No"
+    },
+    {
+     "q": "Quina història té l'edifici?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "És una antiga casa senyorial del segle XVIII convertida en hotel després d'una acurada restauració, amb fusta i marbre. Consta de planta bai"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web convida a reservar a la web oficial per aconseguir el «millor preu garantit». Per reservar amb aquesta demo, contacta amb l'hote"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Telèfon 981 51 98 58; correu info@hotelruavillar.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva política de privacitat indica com a responsable RUA VILLAR RESTAURACION S.L."
+    },
+    {
+     "q": "Hi ha ascensor?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen bany complet, minibar, telèfon, pantalla de plasma i aire condicionat-climatitzador. L'hotel ofereix wifi gratuïta, se"
+    },
+    {
+     "q": "Hi ha servei de bugaderia?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Els serveis inclouen esmorzar bufet, bar/saló, espai per guardar l'equipatge, recepció 24 hores, wifi, registre d'entrada i sortida exprés, "
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web convida a reservar a la web oficial per aconseguir el «millor preu garantit». Per reservar amb aquesta demo, contacta amb l'hote"
+    },
+    {
+     "q": "Teniu suites?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 981 51 98 58 · info@hotelruavillar.com."
+    }
+   ],
+   "chips": [
+    "Quantes habitacions té?",
+    "Hi ha pàrquing?",
+    "On és?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "loc_p"
+   ],
+   "chat": [
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 17 rooms: 4 single, 9 standard doubles, 2 gallery doubles and 2 superior doubles. The superior double is very spacious, with a balcon"
+    },
+    {
+     "q": "What equipment do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have a full bathroom, minibar, telephone, plasma screen and air conditioning. The hotel offers free wifi, room service, a 24-hour "
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Services include buffet breakfast, a bar/lounge, luggage storage, a 24-hour reception, wifi, express check-in and check-out, a laundry servi"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "There is paid public parking nearby. Hotel guests get a special price at Parking San Clemente, 220 metres from the hotel; ask the hotel for "
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "It is at Rúa do Vilar 8-10, 15705 Santiago de Compostela, 15 metres from the Cathedral. Rúa do Vilar, together with rúa do Franco and rúa No"
+    },
+    {
+     "q": "What history does the building have?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It is a former eighteenth-century manor house turned hotel after a careful restoration, with wood and marble. It has a ground floor and four"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Its website invites you to book on the official site to get the «best price guaranteed». To book through this demo, contact the hotel by pho"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Phone 981 51 98 58; email info@hotelruavillar.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Its privacy policy names RUA VILLAR RESTAURACION S.L. as the data controller."
+    },
+    {
+     "q": "Is there a lift?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have a full bathroom, minibar, telephone, plasma screen and air conditioning. The hotel offers free wifi, room service, a 24-hour "
+    },
+    {
+     "q": "Is there a laundry service?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Services include buffet breakfast, a bar/lounge, luggage storage, a 24-hour reception, wifi, express check-in and check-out, a laundry servi"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Its website invites you to book on the official site to get the «best price guaranteed». To book through this demo, contact the hotel by pho"
+    },
+    {
+     "q": "Do you have suites?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 981 51 98 58 · info@hotelruavillar.com."
+    }
+   ],
+   "chips": [
+    "How many rooms does it have?",
+    "Is there parking?",
+    "Where is it?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 17 chambres : 4 individuelles, 9 doubles standard, 2 doubles avec galerie et 2 doubles supérieures. La double supérieure est très "
+    },
+    {
+     "q": "Quel équipement ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent d'une salle de bain complète, d'un minibar, du téléphone, d'un écran plasma et de la climatisation. L'hôtel offre le "
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Les services comprennent le petit-déjeuner buffet, un bar/salon, une consigne à bagages, une réception 24 heures, le wifi, un enregistrement"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il y a un parking public payant à proximité. Les clients de l'hôtel bénéficient d'un tarif spécial au Parking San Clemente, à 220 mètres de "
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il se trouve Rúa do Vilar 8-10, 15705 Saint-Jacques-de-Compostelle, à 15 mètres de la cathédrale. La rúa do Vilar forme, avec la rúa do Fran"
+    },
+    {
+     "q": "Quelle histoire a le bâtiment ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "C'est une ancienne demeure seigneuriale du XVIIIe siècle transformée en hôtel après une restauration soignée, avec bois et marbre. Elle comp"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Son site invite à réserver sur le site officiel pour obtenir le «meilleur prix garanti». Pour réserver via cette démo, contactez l'hôtel par"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Téléphone 981 51 98 58 ; e-mail info@hotelruavillar.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sa politique de confidentialité désigne RUA VILLAR RESTAURACION S.L. comme responsable."
+    },
+    {
+     "q": "Y a-t-il un ascenseur ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent d'une salle de bain complète, d'un minibar, du téléphone, d'un écran plasma et de la climatisation. L'hôtel offre le "
+    },
+    {
+     "q": "Y a-t-il un service de blanchisserie ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Les services comprennent le petit-déjeuner buffet, un bar/salon, une consigne à bagages, une réception 24 heures, le wifi, un enregistrement"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Son site invite à réserver sur le site officiel pour obtenir le «meilleur prix garanti». Pour réserver via cette démo, contactez l'hôtel par"
+    },
+    {
+     "q": "Avez-vous des suites ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 981 51 98 58 · info@hotelruavillar.com."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 981 51 98 58 · info@hotelruavillar.com."
+    }
+   ],
+   "chips": [
+    "Combien de chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Où est-il ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

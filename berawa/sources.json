@@ -1,0 +1,40 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelruavillar.com/",
+ "read_at": "2026-10-29T06:15:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelruavillar.com/",
+   "sha256": "877e57894e3e27b57d740713afb9e7df05a5def2a9b1879e1d8193f534a7db90",
+   "chars": 5292
+  },
+  {
+   "url": "https://hotelruavillar.com/habitaciones/",
+   "sha256": "1c7b0199f00b9c6424a82973f9c1b01a848dc2dbbecb531cad97a4a9f90c4670",
+   "chars": 3531
+  },
+  {
+   "url": "https://hotelruavillar.com/localizacion/",
+   "sha256": "4f25cf27fb8b46a34be7dd82b7fe5ddba11bdb1cbf8bf9ed2e7a789a30ee3dbe",
+   "chars": 4130
+  },
+  {
+   "url": "https://hotelruavillar.com/politica-de-privacidad/",
+   "sha256": "5b2ec22082e366a44c0f023c127244f69ddc8f12da60a04394ba69a9d34f1305",
+   "chars": 4769
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelruavillar.com/cartel_informativo/",
+  "https://hotelruavillar.com/en/contact/",
+  "https://hotelruavillar.com/en/home-english/",
+  "https://hotelruavillar.com/en/location/",
+  "https://hotelruavillar.com/en/offers/",
+  "https://hotelruavillar.com/en/rooms/",
+  "https://hotelruavillar.com/it/pagina-iniziale/",
+  "https://hotelruavillar.com/ofertas/",
+  "https://hotelruavillar.com/politica-de-cookies-ue/",
+  "https://hotelruavillar.com/reserva/"
+ ]
+}
